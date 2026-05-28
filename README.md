@@ -1,7 +1,3 @@
-<img width="1918" height="997" alt="image" src="https://github.com/user-attachments/assets/eafe1d72-6814-401c-a397-620e72840a7e" />
-
-
-
 # ⚡ GuardaTensão
 
 Monitor de energia com interface TUI para Linux — feito para quem sofre com quedas e oscilações de luz e usa notebook na tomada.
@@ -13,7 +9,7 @@ Monitor de energia com interface TUI para Linux — feito para quem sofre com qu
  █  █ █  █ █  █ █   █  █ █  █    █   █   █  █ █   █  █  █ █
   ▀▀   ▀▀  █  █ ▀▀   ▀▀  █  █    ▀▀  ▀▀   ▀▀  ▀   █  █  █ ▀▀
 ```
-
+<img width="1918" height="997" alt="image" src="https://github.com/user-attachments/assets/eafe1d72-6814-401c-a397-620e72840a7e" />
 ---
 
 ## O que é
